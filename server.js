@@ -1,4 +1,4 @@
-const app = require('./api');
+const app = require('./app');
 const port = normalizePort(process.env.PORT || '3000');
 
 function normalizePort(val) {
